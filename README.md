@@ -7,9 +7,9 @@
 
 <!-- <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="70" height="70" /><img src="https://camo.githubusercontent.com/c208789cfe0e64cd8e39a3ed1f7e7a04e26e18132bd0dcd510f42a17ac8a3984/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f72656469732d322f313435312f556e7469746c65642d322d3531322e706e67" alt="icon" width="60px" /> -->
 
-## 배움과 도움을 통해 행복감을 느끼는 백엔드 개발자입니다.<img src="https://media.tenor.com/2VNVEWTZ16YAAAAj/anime-shinnosuke-nohara.gif" width="80px">
+## 배움 <img src="https://media.tenor.com/2VNVEWTZ16YAAAAj/anime-shinnosuke-nohara.gif" width="90px"> 도움
 
-🎯 &nbsp;문제의 본질을 찾아내고 해결하는 것을 지향합니다. \
+🎯 &nbsp;배움을 통해 돕고 도움을 통해 배웁니다. \
 📈 &nbsp;기술을 공부하며 함께 성장하는 것을 지향합니다. \
 📕 &nbsp;제 자신과 다른 사람을 위한 [기술 블로그](https://velog.io/@gaeng_man)를 운영하고 있습니다. \
 🐍 &nbsp;아름다움을 지향하는 Python이 메인 언어입니다.
