@@ -23,7 +23,7 @@ I hope my knowledge will help you.
 <br>
 
 ## 📚 More Info
-<a href="https://kimgyeongmin-kr.github.io/"><img src="https://img.shields.io/badge/blog-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://modumoyu.notion.site/c3c3a5449f584878a7c9532b0d598f05"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"></a> <a href="https://www.instagram.com/gaeng_man/"><img src="https://img.shields.io/badge/gaeng_man-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://kimgyeongmin-kr.github.io/"><img src="https://img.shields.io/badge/blog-181717?style=for-the-badge&logo=github&logoColor=white"></a>  <a href="https://www.instagram.com/gaeng_man/"><img src="https://img.shields.io/badge/gaeng_man-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <br>
 
