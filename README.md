@@ -25,6 +25,7 @@ I hope my knowledge will help you.
 ## 📚 More Info
 <a href="https://kimgyeongmin-kr.github.io/"><img src="https://img.shields.io/badge/blog-181717?style=for-the-badge&logo=github&logoColor=white"></a>  <a href="https://www.instagram.com/gaeng_man/"><img src="https://img.shields.io/badge/gaeng_man-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gyeongmin951)](https://solved.ac/gyeongmin951)
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimGyeongMin-KR%2FKimGyeongMin-KR&count_bg=%23278858&title_bg=%23348DC4&icon=python.svg&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
